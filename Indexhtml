@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My WebSite</title>
+    <link rel="stylesheet" href="./css/reset.css ">
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+    <header id="Siwah">
+        <div class="siwahkawer">
+            <h1><span>A</span>nas <span>A</span>bdulrahim <span>A</span>lnabahin</h1>
+            <p>A Beginner Web Developer.</p>
+        </div>
+    </header>
+    <nav>
+        <a href="#head" class="ahov">Top</a>
+        <a href="#aboutMe" class="ahov">About Me</a>
+        <a href="#myInterests" class="ahov">My Interests</a>
+        <a href="#myProjects" class="ahov">My Project</a>
+        <a href="#mySkills" class="ahov">My Skills</a>
+        <a href="#contactMe" class="ahov">Contact Me</a>
+    </nav>
+    <main>
+        <section class="about-me" id="siwah">
+            <div>
+                <h2>About Me</h2>
+                <p style="width: 850px; padding-left: 62px;">
+                    My name is Anas AbdulRahim Ali Alnabahin, I'm 20 years old. 
+                    I study Information Technology in the Islamic University of Gaze, and I Specialize in Computer Science (CS).
+                    and I finished My high School in 2020 during the covid-19 pandemic. and I have been Interested in programing for 
+                    a while and I'm looking for learning more About it and build a Great Career as a Programmer.
+                </p>
+                <h2 class="motiv">My Motiviations</h2>
+                <p style="width: 900px;">
+                    I have so many reasons that motivates me to join the Code Academy, First of all through my searching for my working inclination and what I want to build my future career on,
+                    I found the programming world and read much about it and understand the basic concepts of it and decided that will be my path,
+                    I like dealing with code and problem solving, then I decided to make the next step and specialize in a specific working field and I set my mind up for specializing in web development,
+                    Since it is a very needed job in the business market I believe After Getting The Right and complete Training And after Spending The Time And Effort On Developing My overall skills, This will open my way to start my career as web developer.
+                    and I believe I will get the training I need and the training that the market require for me to start digging my way in it and start working as a fully mastered Web developer in this Program that the GSG offers. 
+                </p>
+            </div>
+        </section>
+        <section class="interest" id="myInterests">
+            <h1 style="font-size: 45px;">My Interests</h1>
+        <div class="intdiv">
+            <div class="int1">
+                <img src="./images/web.png" alt="Web Development">
+                <h4>Web Development</h4>
+                <p>
+                    I am Very Intersted in Web Development and I am willing to work as a web developer.
+                </p>
+            </div>
+            <div class="int2">
+                <img src="./images/crypt.png" alt="Crypto">
+                <h4>cryptocurrency</h4>
+                <p>
+                    I am Very Interested in The cryptocurrency Market and I found it very efficient for making profits.
+                </p>
+            </div>
+            <div class="int3">
+                <img src="./images/nft.png" alt="NFT">
+                <h4>non-fungible tokens(NFTs)</h4>
+                <p>
+                    I am Very Interested in non-fungible tokens(NFTs) They are also a good way of making easy and efficient profits.
+                </p>
+            </div>
+        </div>
+        </section>
+        <article class="my-projects" id="myProjects">
+            <h1 class="s3h1">My Projects</h1>
+            <p class="projects-p">click on the Project name to view the source code.</p>
+            <div class="my-projects-div" id="projects">
+            <div><img src="./images/dice.png" alt="dice game" style="background-color: white;"><br><a href="https://github.com/Anas-Alnabahin/JS-Project">Dice Game</a></div>
+            <div><img src="./images/proj.jpg" alt="Resturant WebSite"><br><a href="#">Resturant WebSite</a></div>
+            <div><img src="./images/proj.jpg" alt="Movie WebSite"><br><a href="#">Movie WebSite</a></div>
+            <div><img src="./images/proj.jpg" alt="Shoping WebSite"><br><a href="#">Shoping WebSite</a></div>
+            <div><img src="./images/proj.jpg" alt="Gaming WebSite"><br><a href="#">Gaming WebSite</a></div>
+            <div><img src="./images/proj.jpg" alt="Clinic WebSite"><br><a href="#">Clinic WebSite</a></div>
+            </div>
+        </article>
+        <section class="my-skills" id="mySkills">
+                <div>
+                    <div class="skills">
+                        <h2>My Skills</h2>
+                        <p>
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                            I have a lot of skills in JavaScrpit , Css and Html.
+                        </p>   
+                    </div>
+                    <div class="progress">
+                        <div class="group">
+                            <h3>HTML</h3>
+                            <div>
+                                <span style="width:98%">98% &nbsp;</span>
+                            </div>
+                        </div>
+                        <div class="group">
+                            <h3>CSS</h3>
+                            <div>
+                                <span style="width:90%">90% &nbsp;</span>
+                            </div>
+                        </div>
+                        <div class="group">
+                            <h3>JavaScrpit</h3>
+                            <div>
+                                <span style="width:90%">90% &nbsp;</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+    </main>
+    <footer class="contact-me" id="contactMe">
+            <div>
+                <div class="contact">
+                    <h2>Contact Me</h2>
+                    <p>
+                        Here is my Contact Information if you want to contact me.
+                    </p>
+                    <p>
+                        Gaza Strip<br>
+                        Bureij Camp<br>
+                        Block #12
+                    </p>
+                    <p>
+                        <strong>Email:</strong> Nyingkawer@gmail.com<br>
+                        <strong>Phone:</strong> +6285870467671<br>
+                    </p>
+                    <a href="https://www.freecodecamp.org/kawerr12" class="cons">My freecodecamp</a>
+                    <a href="https://www.codewars.com/users/kawer" class="cons">My CodeWars</a>
+                    <a href="https://github.com/kawerr12/HTML-Project" class="cons">The Repository For the Html project</a>
+                    <a href="https://github.com/kawerrq2/JS-Project" class="cons">The Repository For the JS project</a>
+                </div>
+                <form class="form">
+                    <label>Name *</label>
+                    <input type="text">
+                    <label>Email Address *</label>
+                    <input type="text">
+                    <label>Message</label>
+                    <textarea></textarea>
+                    <input type="submit" value="Contact Me">
+                </form>
+            </div>
+            <div>
+                <span class="copy-rights">copyright &copy; 2022 AN4SNB.</span>
+            </div>
+    </footer>
+</body>
+</html>
